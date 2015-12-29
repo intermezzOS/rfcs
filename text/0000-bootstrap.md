@@ -29,3 +29,4 @@ only one working on this project for now. However:
    decisions.
 2. It might be easier to not have one, but I’ve found RFCs so useful in Rust that
    I am willing to bet that I wish I had done this previously.
+3. RFCs allow for newcomers to learn about what design decisions have been made, and why. 
