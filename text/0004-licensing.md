@@ -41,3 +41,7 @@ of it, I would be sad.
 We could make the opposite choice and choose the GPL + GFDL. This would require
 relicensing the code, as well as licensing the book. And it may drive off some
 potential contributors.
+
+We could make everything still be “all rights reserved”, as it is now. This makes
+some things very murky; is a fork unacceptable then? It’s also a bit inconsistent
+to have open source code, but not an open source book, though people do do it.
